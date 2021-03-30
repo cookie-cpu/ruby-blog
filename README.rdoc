@@ -1,3 +1,6 @@
+This basic rails blog was built using https://guides.rubyonrails.org/v4.2/getting_started.html
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
